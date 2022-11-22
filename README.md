@@ -16,4 +16,4 @@ curvature.py is used to calculate the curvature of the boundary and guide shape 
 
 jobUMASS3.qs is the commands for running the code on the UMass GHPCC
 
-Main contributor: Navid Mirzaei
+Main contributors: Yu Hu and Navid Mirzaei
