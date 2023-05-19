@@ -17,3 +17,6 @@ curvature.py is used to calculate the curvature of the boundary and guide shape 
 jobUMASS3.qs is the commands for running the code on the UMass GHPCC
 
 Main contributors: Yu Hu and Navid Mirzaei
+
+If using any parts of this code please cite: 
+Y Hu, N Mohammad Mirzaei, L Shahriyari, Bio-Mechanical Model of Osteosarcoma Tumor Microenvironment: A Porous Media Approach, Cancers, 2022; https://doi.org/10.3390/cancers14246143.
